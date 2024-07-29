@@ -55,7 +55,7 @@ Here is the list of subjects of BEPs:
 | [BEP-293](./BEPs/BEP-293.md) | Greenfield Link to opBNB                                  | Standards | Draft     |
 | [BEP-294](./BEPs/BEP294.md)  | BSC Native Staking after BC Fusion                        | Standards | Enabled |
 | [BEP-297](./BEPs/BEP297.md)  | BSC Native Governance Module                              | Standards | Enabled |
-| [BEP-299](./BEPs/BEP-299.md) | Token Migration after BC Fusion                           | Standards | Candidate |
+| [BEP-299](./BEPs/BEP-299.md) | Token Migration after BC Fusion                           | Standards | Enable |
 | [BEP-311](./BEPs/BEP-311.md) | Implement EIP-3651 Warm COINBASE                          | Standards | Enabled |
 | [BEP-312](./BEPs/BEP-312.md) | Announce EIP-6049 Deprecate SELFDESTRUCT                  | Standards | Review    |
 | [BEP-319](./BEPs/BEP-319.md) | Optimize the incentive mechanism of the Fast Finality feature | Standards | Enabled |
@@ -86,5 +86,5 @@ Here is the list of subjects of BEPs:
 [BNB Chain Upgrades(Testnet): History & Forecast](https://forum.bnbchain.org/t/bnb-chain-upgrades-testnet/934)
 
 
-# How To Contribute A BEP
+# How To Contribute A BEPl
 If you have an idea and want to make it a BEP, you may refer [BEP-1](BEP1.md)
